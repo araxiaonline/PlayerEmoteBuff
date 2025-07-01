@@ -156,8 +156,10 @@ RegisterPlayerEvent(PLAYER_EVENT_ON_TEXT_EMOTE, OnClassPrayer)
    ```
 4. If you try again before the cooldown ends, you get:
    ```
-   You must wait 1 minutes and 58 seconds before invoking your ritual again.
+   You must wait X minutes and XX seconds before invoking your ritual again.
    ```
+Where X is the amount of time before you can get the buff again.
+
 ![Example of Emote Buff](./Example.png)
 
 ---
