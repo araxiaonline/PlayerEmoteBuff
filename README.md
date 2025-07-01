@@ -172,14 +172,6 @@ Where X is the amount of time before you can get the buff again.
 
 ---
 
-## ✅ Optional Enhancements
-
-- Add visual spell animations or sounds.
-- Send messages to nearby players (for roleplay events).
-- Add race-specific flair or conditions.
-- Sync with your in-game Guild Commands addon.
-
----
 
 ## 💬 Feedback
 
