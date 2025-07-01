@@ -158,6 +158,7 @@ RegisterPlayerEvent(PLAYER_EVENT_ON_TEXT_EMOTE, OnClassPrayer)
    ```
    You must wait 1 minutes and 58 seconds before invoking your ritual again.
    ```
+![Example of Emote Buff](./Example.png)
 
 ---
 
