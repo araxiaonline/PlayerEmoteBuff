@@ -133,16 +133,16 @@ RegisterPlayerEvent(PLAYER_EVENT_ON_TEXT_EMOTE, OnClassPrayer)
 
 ## 🎯 Buff Spell IDs
 
-| Spell ID | Effect        |
-|----------|---------------|
-| 23735    | Strength      |
-| 23736    | Agility       |
-| 23737    | Stamina       |
-| 23738    | Spirit        |
-| 23766    | Intelligence  |
-| 23767    | Armor         |
-| 23768    | Damage Boost  |
-| 23769    | Resistance    |
+| Spell ID | Spell Name                         | Link to EvoWoW                                               |
+|----------|----------------------------------|--------------------------------------------------------------|
+| 23735    | Sayge's Dark Fortune of Strength | [View on EvoWoW](https://wotlk.evowow.com/?spell=23735)      |
+| 23736    | Sayge's Dark Fortune of Agility  | [View on EvoWoW](https://wotlk.evowow.com/?spell=23736)      |
+| 23737    | Sayge's Dark Fortune of Stamina  | [View on EvoWoW](https://wotlk.evowow.com/?spell=23737)      |
+| 23738    | Sayge's Dark Fortune of Spirit   | [View on EvoWoW](https://wotlk.evowow.com/?spell=23738)      |
+| 23766    | Sayge's Dark Fortune of Intelligence | [View on EvoWoW](https://wotlk.evowow.com/?spell=23766)  |
+| 23767    | Sayge's Dark Fortune of Armor    | [View on EvoWoW](https://wotlk.evowow.com/?spell=23767)      |
+| 23768    | Sayge's Dark Fortune of Damage   | [View on EvoWoW](https://wotlk.evowow.com/?spell=23768)      |
+| 23769    | Sayge's Dark Fortune of Resistance | [View on EvoWoW](https://wotlk.evowow.com/?spell=23769)    |
 
 ---
 
